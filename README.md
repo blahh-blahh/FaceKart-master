@@ -1,8 +1,5 @@
 ## Facekart
 
-<img src=images/homepage.png> <br/>
-<img src=images/webcam.png>
-
 How to get started with facekart....
 
 ### `Available Scripts`
