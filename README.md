@@ -27,10 +27,6 @@ You will also see any lint errors in the console.
 
 We can also access this project at https://facekart.herokuapp.com.
 
-### `Brief Documentation`
-
-To access the brief documentation of facekart project : https://docs.google.com/presentation/d/1d32TYz344sFQ2WYQuXIYo-QthYaVPDAy1L5JJPgDmYU/edit?usp=sharing
-
 
 
 
